@@ -1,23 +1,24 @@
-# Titanic Survival Prediction with Machine Learning
+# Titanic Dataset Analysis with Python and Pandas
 
-##  Project Overview
-This project analyzes the Titanic dataset and builds machine learning models to predict passenger survival.
+## Project Overview
+This project explores the Titanic dataset using Python and Pandas. It focuses on data manipulation, cleaning, filtering, and exploratory data analysis to better understand passenger information.
 
-##  Features
-- Data Cleaning & Preprocessing
+## Features
+- Data Cleaning
+- Data Manipulation with Pandas
+- Filtering and Sorting Data
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Models
+- Basic Insights from Passenger Data
 
-##  Dataset
-Titanic dataset (passenger data)
+## Dataset
+Titanic dataset (passenger information)
 
-##  Technologies
+## Technologies
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 
-##  Goal
-To predict survival outcomes and understand the factors affecting passenger survival.
+## Goal
+To practice data analysis skills and understand the factors related to passenger survival on the Titanic dataset.
